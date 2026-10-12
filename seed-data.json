@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Frontend Developer Intern",
+    "company": "BrightPath Technologies",
+    "location": "Hyderabad, Telangana",
+    "mode": "Hybrid",
+    "description": "Build accessible responsive web interfaces with HTML, CSS, and JavaScript.",
+    "application_url": "https://example.com/apply/frontend-intern",
+    "is_active": 1
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Northstar Analytics",
+    "location": "Remote, India",
+    "mode": "Remote",
+    "description": "Clean datasets, create dashboards, and communicate insights to business teams.",
+    "application_url": "https://example.com/apply/data-analyst",
+    "is_active": 1
+  },
+  {
+    "title": "Backend Developer Intern",
+    "company": "Cedar Labs",
+    "location": "Bengaluru, Karnataka",
+    "mode": "On-site",
+    "description": "Help develop and test REST APIs using Node.js and relational databases.",
+    "application_url": "https://example.com/apply/backend-intern",
+    "is_active": 1
+  }
+]
